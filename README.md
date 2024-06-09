@@ -1,11 +1,9 @@
-### About Me
-
+<h1 align="left">About Me</h1>
 - **Name:** 藤田 桜之心 (Fujita Harunoshin)
 - **Part-time Developer at e-Craft:** Since June 2023
 - **Passionate IT Engineer:** Excited about new technologies. Especially if it creates new content and culture.
 
-### Skills & Technologies
-
+<h1 align="left">Skills & Technologies</h1>
 Below are some of the languages and frameworks I have acquired, with my strongest skills highlighted:
 
 <h2 align="left">High Skill:</h2>
@@ -64,7 +62,7 @@ Below are some of the languages and frameworks I have acquired, with my stronges
   </a>
 </p>
 
-## Stats
+<h1 align="left">Stats</h1>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fujita-Harunoshin&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fujita-Harunoshin&theme=gruvbox)
@@ -72,7 +70,7 @@ Below are some of the languages and frameworks I have acquired, with my stronges
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fujita-Harunoshin&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fujita-Harunoshin&theme=gruvbox&utcOffset=9)
 
-## Trophy
+<h1 align="left">Trophy</h1>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Fujita-Harunoshin&theme=gruvbox)
 
