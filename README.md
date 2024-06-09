@@ -1,10 +1,14 @@
 <h1 align="left">About Me</h1>
-- **Name:** 藤田 桜之心 (Fujita Harunoshin)
-- **Part-time Developer at e-Craft:** Since June 2023
-- **Passionate IT Engineer:** Excited about new technologies. Especially if it creates new content and culture.
+<p>
+  <strong>Name:</strong> 藤田 桜之心 (Fujita Harunoshin)<br>
+  <strong>Part-time Developer at e-Craft:</strong> Since June 2023<br>
+  <strong>Passionate IT Engineer:</strong> Excited about new technologies. Especially if it creates new content and culture.
+</p>
 
 <h1 align="left">Skills & Technologies</h1>
-Below are some of the languages and frameworks I have acquired, with my strongest skills highlighted:
+<p>
+  Below are some of the languages and frameworks I have acquired, with my strongest skills highlighted:
+</p>
 
 <h2 align="left">High Skill:</h2>
 <p align="left">
