@@ -52,6 +52,9 @@
    <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/> 
    </a>
+   <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="40" height="40"/> 
+   </a>
 </p>
 
 <p align="left">
