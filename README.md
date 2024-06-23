@@ -10,7 +10,7 @@
   Below are some of the languages and frameworks I have acquired, with my strongest skills highlighted:
 </p>
 
-<h2 align="left">High Skills:</h2>
+<h2 align="left">Main Skills:</h2>
 <p align="left">
    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
@@ -22,6 +22,9 @@
 
 <h2 align="left">Other Skills:</h2>
 <p align="left">
+   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/> 
+   </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
    </a>
