@@ -12,15 +12,15 @@
 
 <h2 align="left">Main Skills:</h2>
 <p align="left">
-  <a href="https://www.mql5.com/" target="_blank" rel="noreferrer">
-    <img src="http://upload.wikimedia.org/wikipedia/commons/b/b1/MQL5_Community_Logo.png" alt="MQL5" width="40" height="40"/>
-  </a>
    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
    </a>
    <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Blazor.png/800px-Blazor.png" alt="Blazor" width="40" height="40"/> 
    </a>
+  <a href="https://www.mql5.com/ja/docs" target="_blank" rel="noreferrer">
+    <img src="http://upload.wikimedia.org/wikipedia/commons/b/b1/MQL5_Community_Logo.png" alt="MQL5" width="40" height="40"/>
+  </a>
 </p>
 
 <h2 align="left">Other Skills:</h2>
