@@ -1,8 +1,6 @@
 <h1 align="left">About Me</h1>
 <p>
   <strong>Name:</strong> 藤田 桜之心 (Fujita Harunoshin)<br>
-  <strong>Part-time Developer at e-Craft:</strong> Since June 2023<br>
-  <strong>Passionate IT Engineer:</strong> Excited about new technologies. Especially if it creates new content and culture.
 </p>
 
 <h1 align="left">Skills & Technologies</h1>
@@ -59,32 +57,3 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="40" height="40"/> 
    </a>
 </p>
-
-<p align="left">
-  <a href="https://github.com/Fujita-Harunoshin">
-    <img height="20" src="https://komarev.com/ghpvc/?username=Fujita-Harunoshin" />
-  </a>
-  <a href="https://github.com/Fujita-Harunoshin">
-    <img height="20" src="https://img.shields.io/github/followers/Fujita-Harunoshin?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="http://qiita.com/Fharu">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/FHaru/posts.svg" />
-  </a>
-  <a href="http://qiita.com/Fharu">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/FHaru/contributions.svg" />
-  </a>
-</p>
-
-<h1 align="left">Stats</h1>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fujita-Harunoshin&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fujita-Harunoshin&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fujita-Harunoshin&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fujita-Harunoshin&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fujita-Harunoshin&theme=gruvbox&utcOffset=9)
-
-<h1 align="left">Trophy</h1>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Fujita-Harunoshin&theme=gruvbox)
-
-![](https://raw.githubusercontent.com/fujita-harunoshin/Fujita-Harunoshin/output/github-contribution-grid-snake.svg)
